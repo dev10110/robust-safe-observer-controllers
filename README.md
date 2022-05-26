@@ -11,7 +11,7 @@ Devansh Agrawal and Dimitra Panagou
 
 
 ## Code
-Code for the simulation study is available here. 
+Code for the simulation study is available in the `/src/` folder. 
 
 The crazyflie firmware is available here: 
     https://github.com/dasc-lab/crazyswarm/tree/internal_safety_filter
