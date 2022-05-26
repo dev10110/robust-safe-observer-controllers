@@ -9,4 +9,12 @@ Devansh Agrawal and Dimitra Panagou
 [![observer_controller_video](https://img.youtube.com/vi/83o7CEgTEwo/0.jpg)](https://www.youtube.com/watch?v=83o7CEgTEwo)
 
 
-code and additional details will be available soon. feel free to contact me if you need it before it gets published here. 
+
+## Code
+Code for the simulation study is available here. 
+
+The crazyflie firmware is available here: 
+    https://github.com/dasc-lab/crazyswarm/tree/internal_safety_filter
+
+and specifically, the main safety controller is here: 
+    https://github.com/dasc-lab/crazyswarm/blob/internal_safety_filter/crazyflie-firmware/src/modules/src/controller_geometric.c
